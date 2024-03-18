@@ -1,0 +1,56 @@
+.ef3psqc12{
+    background-color: #456bdc; 
+    color: rgb(255, 255, 255); /* White text */
+    padding: 10px 15px; /* Larger padding for better spacing */
+    text-align: center; /* Center-align the text */
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px; /* Slightly larger font size */
+    border-radius: 8px; /* Rounded corners */
+    margin: 8px 4px; /* Adjusted margin for better spacing */
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Smooth transition on hover */
+}
+
+.ef3psqc12:hover {
+    background-color: #2f84d4; /* Darker blue on hover */
+    color: white; /* White text on hover */
+}
+
+.e1f1d6gn4{
+    font-family: Cambria, Georgia, serif; 
+    font-size: 18px; 
+    line-height: 26.4px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+.e1nzilvr5 p{
+    font-family: Cambria, Georgia, serif; 
+    font-size: 18px; 
+    line-height: 26.4px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+
+.e1y5xkzn3{
+    font-family: Cambria, Georgia, serif; 
+    font-size: 18px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 26.4px;
+}
+
+.e1f1d6gn{
+    font-family: Cambria, Georgia, serif; 
+    color: #ffffff; 
+}
+.e1nzilvr1{
+   color: #1f3b8f; 
+   font-family: Cambria, Georgia, serif;
+}
+
+.ea3mdgi5{
+    background-color: #95acee; 
+    height: 800px;
+}
